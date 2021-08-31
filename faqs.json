@@ -1,0 +1,22 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "category": "Community",
+      "question": "Question one",
+      "answer": "This is answer for question number one."
+    },
+    {
+      "id": 2,
+      "category": "Hardware acceleration",
+      "question": "Question two",
+      "answer": "This is answer for question number two."
+    },
+    {
+      "id": 3,
+      "category": "Performance and optimization",
+      "question": "Question three",
+      "answer": "This is answer for question number three."
+    }
+  ]
+}
